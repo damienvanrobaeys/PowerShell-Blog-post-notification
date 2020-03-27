@@ -1,0 +1,25 @@
+<Blogs>
+	<Config>
+		<!-- Notification can be: WindowsNotif - BurntToast - WPF --> 
+		<Notification>WindowsNotif</Notification>
+		<!-- Number of days to check: 
+		Exemple: 1 day means, I want to display new posts during the last 1 day-->
+		<DateToCheck>1</DateToCheck>		
+	</Config>	
+	<!-- Node sample -->
+	
+	<!-- <Blog>
+		<Name>Syst and Deploy</Name>
+		<Path>http://www.systanddeploy.com</Path>
+		<RSS>http://www.systanddeploy.com/feeds/posts/default?alt=rss</RSS>
+		<Logo>SD.jpg</Logo>
+	</Blog> -->
+	
+	<Blog>
+		<Name></Name>
+		<Path></Path>
+		<RSS></RSS>
+		<Logo></Logo>
+	</Blog>
+</Blogs>
+

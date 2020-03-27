@@ -1,0 +1,58 @@
+<Blogs>
+	<Config>
+		<!-- Notification can be: WindowsNotif - BurntToast - WPF --> 
+		<Notification>WPF</Notification>
+		<!-- Number of days to check: 
+		Exemple: 1 day means, I want to display new posts during the last 1 day-->
+		<DateToCheck>10</DateToCheck>		
+	</Config>
+	<Blog>
+		<Name>Syst and Deploy</Name>
+		<Path>http://www.systanddeploy.com</Path>
+		<RSS>http://www.systanddeploy.com/feeds/posts/default?alt=rss</RSS>
+		<Logo>SD.jpg</Logo>
+	</Blog>
+	
+	<Blog>
+		<Name>Dev4Sys</Name>
+		<Path>https://www.dev4sys.com</Path>
+		<RSS>https://www.dev4sys.com/feeds/posts/default?alt=rss</RSS>		
+		<Logo>dev4sys.jpg</Logo>
+	</Blog>
+
+	<Blog>
+		<Name>PowerShell-WPF</Name>
+		<Path>http://powershell-wpf.com</Path>
+		<RSS>http://powershell-wpf.com/feeds/posts/default?alt=rss</RSS>		
+		<Logo></Logo>		
+	</Blog>	
+
+	<Blog>
+		<Name>JM2K69</Name>
+		<Path>https://jm2k69.github.io</Path>
+		<RSS>https://jm2k69.github.io/feed.xml</RSS>	
+		<Logo>jmk.png</Logo>
+	</Blog>	
+	
+	<Blog>
+		<Name>Fox Deploy</Name>
+		<Path>https://foxdeploy.com</Path>
+		<RSS>https://foxdeploy.com/feed/</RSS>	
+		<Logo>foxdeploy.jpg</Logo>
+	</Blog>		
+
+	<Blog>
+		<Name>SCCONFIGMGR</Name>
+		<Path>https://www.scconfigmgr.com</Path>
+		<RSS>https://www.scconfigmgr.com/feed/</RSS>	
+		<Logo>scconfigmgr.jpg</Logo>	
+	</Blog>	
+	
+	<Blog>
+		<Name>LazyWinAdmin</Name>
+		<Path>https://lazywinadmin.com</Path>
+		<RSS>https://feeds.feedburner.com/lazywinadmin</RSS>		
+		<Logo></Logo>				
+	</Blog>		
+</Blogs>
+
